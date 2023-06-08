@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    padding: 50px 50px;
 }
 
 #basic-info {
@@ -46,7 +47,7 @@ body {
     padding: 20px;
     text-align: center;
     transition: 0.3s;
-		font-size: 14px;
+    font-size: 14px;
 }
 
 .blog-card a {
@@ -59,6 +60,7 @@ body {
 }
 
 #nft-image {
-    width: 100%;
-    height: auto;
+    width: 550px;
+    height: 550px;
+    object-fit: cover;
 }
