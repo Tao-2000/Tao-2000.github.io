@@ -60,7 +60,7 @@ body {
 }
 
 #nft-image {
-    width: 550px;
-    height: 550px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
 }
